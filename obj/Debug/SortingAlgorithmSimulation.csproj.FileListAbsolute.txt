@@ -1,0 +1,23 @@
+A:\Self-created application\Research\SortingAlgorithmSimulation\bin\Debug\SortingAlgorithmSimulation.exe.config
+A:\Self-created application\Research\SortingAlgorithmSimulation\bin\Debug\SortingAlgorithmSimulation.exe
+A:\Self-created application\Research\SortingAlgorithmSimulation\bin\Debug\SortingAlgorithmSimulation.pdb
+A:\Self-created application\Research\SortingAlgorithmSimulation\bin\Debug\Guna.UI2.dll
+A:\Self-created application\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.csproj.AssemblyReference.cache
+A:\Self-created application\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.FormMain.resources
+A:\Self-created application\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.Properties.Resources.resources
+A:\Self-created application\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.csproj.GenerateResource.cache
+A:\Self-created application\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.csproj.CoreCompileInputs.cache
+A:\Self-created application\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.csproj.CopyComplete
+A:\Self-created application\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.exe
+A:\Self-created application\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.pdb
+A:\Research\SortingAlgorithmSimulation\bin\Debug\SortingAlgorithmSimulation.exe.config
+A:\Research\SortingAlgorithmSimulation\bin\Debug\SortingAlgorithmSimulation.exe
+A:\Research\SortingAlgorithmSimulation\bin\Debug\SortingAlgorithmSimulation.pdb
+A:\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.csproj.AssemblyReference.cache
+A:\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.FormMain.resources
+A:\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.Properties.Resources.resources
+A:\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.csproj.GenerateResource.cache
+A:\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.csproj.CoreCompileInputs.cache
+A:\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.csproj.CopyComplete
+A:\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.exe
+A:\Research\SortingAlgorithmSimulation\obj\Debug\SortingAlgorithmSimulation.pdb
